@@ -8,4 +8,4 @@ A\V is a product showcase website where users can view products, learn more abou
 - Place orders via WhatsApp by sending a pre-filled message.
 
 # Link
-- https://atique22.github.io/atique-vision/
+- https://atique22.github.io/av-subcription/
